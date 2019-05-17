@@ -47,6 +47,10 @@ For start working with this repo you should first make new branch named like art
 
 5. Next -- push button: `New pull request` and fill form PR.
 
+**Please, name your Pull Request like that: `1-js/02-first-steps/14-function-basics`**
+
+It's really helpful while issue maintenance
+
 ![push New pull request](./img/main.manual/push-new-pr.png)
 
 Congrats! Now you are the new contributor!

@@ -2,9 +2,9 @@
 
 ## Getting started
 
-For start working with this repo you should first make new branch named like article path (it needs for better maintainance)
+To start working with this repo you should first fork it (top right corner). make new branch named like article path (it needs for better maintenance) //в этом моменте я не совсем поняла о чём ты. Бранч же мы делаем (и даём ему имя) позже, нет?
 
-1. clone forked repo on you local
+1. clone forked repo to you local directory
 
   input: `>`,
   output: `<`
@@ -15,7 +15,7 @@ For start working with this repo you should first make new branch named like art
   > cd ru.javascript.info
 ```
 
-2. Now we are in the project folder. Next step, that we need to make -- is create a new branch on wich we want to make our contribution. Suppose we want to translate article on this path `1-js/02-first-steps/14-function-basics/article.md`. Here what we should do for it:
+2. Now we are in the project folder. Our next step will be to create a new branch on which we want to make our contribution. Suppose we want to translate article with this path `1-js/02-first-steps/14-function-basics/article.md`. Here what we should do for it:
 
 ```sh
   // now we are on branch: master

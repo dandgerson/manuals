@@ -2,7 +2,7 @@
 
 ## Getting started
 
-To start working with this repo you should first fork it (top right corner). make new branch named like article path (it needs for better maintenance) //в этом моменте я не совсем поняла о чём ты. Бранч же мы делаем (и даём ему имя) позже, нет?
+To start working with this repo you should first fork it (top right corner). make new branch named like article path (it needs for better maintenance)
 
 1. clone forked repo to you local directory
 

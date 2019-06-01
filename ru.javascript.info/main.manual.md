@@ -4,12 +4,12 @@
 
 To start working with this repo you should first fork it (top right corner). make new branch named like article path (it needs for better maintenance)
 
-1. clone forked repo to you local directory
-
 ```sh  
   input: `>`,
   output: `<`
 ```
+
+1. clone forked repo to you local directory
 
 ```sh
 

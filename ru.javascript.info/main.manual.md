@@ -6,8 +6,10 @@ To start working with this repo you should first fork it (top right corner). mak
 
 1. clone forked repo to you local directory
 
+```sh  
   input: `>`,
   output: `<`
+```
 
 ```sh
 
@@ -47,7 +49,7 @@ To start working with this repo you should first fork it (top right corner). mak
 
 5. Next -- push button: `New pull request` and fill form PR.
 
-**Please, name your Pull Request like that: `1-js/02-first-steps/14-function-basics`**
+**Please, name your Pull Request like that: `1-js/02-first-steps/14-function-basics` or same with article title**
 
 It's really helpful while issue maintenance
 
@@ -61,7 +63,7 @@ Watch the PR progress, reviews and comments.
 
 Making another translation you will need to update your fork. (Important changes could occur while we were translating.)
 
-1. First update our fork. It's easy.
+1. First, update our fork. It's easy.
 
 ```sh
   // from the root project folder
@@ -94,7 +96,7 @@ For more convenient viewing of comments click the link with article:
 
 ![show where the link](./img/main.manual/review-comment-link.png)
 
-Now all comments in all place without collapsed
+Now all comments in one place without collapsed messages
 
 ![article page](./img/main.manual/review-page.png)
 
@@ -143,7 +145,7 @@ Sometimes we want to work on another machine.
   > cd ru.javascript.info
 ```
 
-2. After clone your fork you'll need to checkout your working branch.
+2. After your fork is cloned, you'll need to checkout your working branch.
 
 ```sh
   // Check our remote branches

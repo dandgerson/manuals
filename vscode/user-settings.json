@@ -47,4 +47,5 @@
   "emmet.triggerExpansionOnTab": true,
   "workbench.colorTheme": "Nord",
   "diffEditor.ignoreTrimWhitespace": true,
+  "breadcrumbs.enabled": false,
 }

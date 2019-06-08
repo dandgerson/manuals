@@ -5,3 +5,11 @@
 - [ ] [How to Use the JavaScript Fetch API to Get JSON Data](https://www.taniarascia.com/how-to-use-the-javascript-fetch-api-to-get-json-data/)
 - [ ] [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [ ] [Network requests](http://javascript.info/network)
+
+---
+
+- [ ] [https://reactjs.org: Getting Started](https://reactjs.org/docs/getting-started.html)
+
+---
+
+- [ ] [Book: React in Action](https://www.manning.com/books/react-in-action)

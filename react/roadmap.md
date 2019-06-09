@@ -11,7 +11,7 @@
 
 ---
 
-- [ ] [https://reactjs.org: Getting Started](https://reactjs.org/docs/getting-started.html)
+- [ ] [https://reactjs.org: Docs](https://reactjs.org/docs/getting-started.html)
 - [ ] [https://reactjs.org: Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
   - [ ] [Make pet project](https://reactjs.org/tutorial/tutorial.html)
 - [ ] [Create React App](https://facebook.github.io/create-react-app/)
